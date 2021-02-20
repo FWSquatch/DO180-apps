@@ -28,10 +28,11 @@ if($submit)
  <input type="text" name="numb" size="10">
  <input type="submit" value="Calculate" name="submit">
 </form>
-<?php } ?> 
  Legend:
 
 * Multiply
 - Subtract
 / Divide
 + Add 
+<?php } ?> 
+
