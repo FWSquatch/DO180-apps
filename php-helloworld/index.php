@@ -29,3 +29,9 @@ if($submit)
  <input type="submit" value="Calculate" name="submit">
 </form>
 <?php } ?> 
+ Legend:
+
+* Multiply
+- Subtract
+/ Divide
++ Add 
